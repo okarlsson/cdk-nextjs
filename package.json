@@ -32,7 +32,8 @@
     "unbump": "npx projen unbump",
     "upgrade": "npx projen upgrade",
     "watch": "npx projen watch",
-    "projen": "npx projen"
+    "projen": "npx projen",
+    "prapare": "yarn build"
   },
   "author": {
     "name": "JetBridge",
