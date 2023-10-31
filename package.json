@@ -33,7 +33,7 @@
     "upgrade": "npx projen upgrade",
     "watch": "npx projen watch",
     "projen": "npx projen",
-    "prapare": "yarn build"
+    "prepack": "yarn build"
   },
   "author": {
     "name": "JetBridge",
